@@ -1,4 +1,4 @@
-# Student-Manager
+# Students-Manager
 
 ## REST API with Java, Spring, MySQL, React
 
